@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TinNews</string>
+    <string name="title_home">主页</string>
+    <string name="title_save">收藏</string>
+    <string name="title_search">搜索</string>
+    <string name="title_detail">详情</string>
+    <string name="unknown_author">未知作者</string>
+    <string name="description">描述:</string>
+    <string name='author'>作者:</string>
+</resources>
